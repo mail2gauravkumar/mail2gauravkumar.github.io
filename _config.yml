@@ -1,0 +1,12 @@
+# Site settings
+title: Tech walk ... to remember
+email: mail2gauravkumar@gmail.com
+description: TODO
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mail2gauravkumar.github.io" # the base hostname & protocol for your site
+twitter_username: aggarwalgk
+github_username:  mail2gauravkumar
+gems:
+  - jemoji
+# Build settings
+markdown: redcarpet
